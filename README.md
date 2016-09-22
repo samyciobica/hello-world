@@ -1,2 +1,1 @@
-# hello-world
-repositorio pruebas
+Esta no es la rama principal.
